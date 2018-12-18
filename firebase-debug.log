@@ -1,0 +1,63 @@
+[debug] [2018-11-27T16:32:36.710Z] ----------------------------------------------------------------------
+[debug] [2018-11-27T16:32:36.713Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Солар\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2018-11-27T16:32:36.713Z] CLI Version:   6.1.1
+[debug] [2018-11-27T16:32:36.713Z] Platform:      win32
+[debug] [2018-11-27T16:32:36.713Z] Node Version:  v8.12.0
+[debug] [2018-11-27T16:32:36.713Z] Time:          Tue Nov 27 2018 23:32:36 GMT+0700 (Красноярское время (зима))
+[debug] [2018-11-27T16:32:36.713Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2018-11-27T16:32:36.719Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2018-11-27T16:32:36.719Z] > authorizing via signed-in user
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  E:\learning\React\burger-builder  with saga
+
+[debug] [2018-11-27T16:33:10.539Z] ----------------------------------------------------------------------
+[debug] [2018-11-27T16:33:10.541Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Солар\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2018-11-27T16:33:10.541Z] CLI Version:   6.1.1
+[debug] [2018-11-27T16:33:10.541Z] Platform:      win32
+[debug] [2018-11-27T16:33:10.542Z] Node Version:  v8.12.0
+[debug] [2018-11-27T16:33:10.542Z] Time:          Tue Nov 27 2018 23:33:10 GMT+0700 (Красноярское время (зима))
+[debug] [2018-11-27T16:33:10.542Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2018-11-27T16:33:10.547Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2018-11-27T16:33:10.547Z] > authorizing via signed-in user
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  E:\learning\React\burger-builder  with saga
+
+[debug] [2018-11-27T16:33:25.284Z] ----------------------------------------------------------------------
+[debug] [2018-11-27T16:33:25.287Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Солар\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2018-11-27T16:33:25.287Z] CLI Version:   6.1.1
+[debug] [2018-11-27T16:33:25.287Z] Platform:      win32
+[debug] [2018-11-27T16:33:25.287Z] Node Version:  v8.12.0
+[debug] [2018-11-27T16:33:25.287Z] Time:          Tue Nov 27 2018 23:33:25 GMT+0700 (Красноярское время (зима))
+[debug] [2018-11-27T16:33:25.287Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2018-11-27T16:33:25.293Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2018-11-27T16:33:25.293Z] > authorizing via signed-in user
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  E:\learning\React\burger-builder  with saga
+
